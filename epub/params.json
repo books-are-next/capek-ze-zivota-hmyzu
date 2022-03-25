@@ -1,1 +1,465 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "drama",
+      "title": "Ze života hmyzu",
+      "identifier": "ad0f7267-2357-4b50-a3a7-82366543b509",
+      "author": [
+        "Karel Čapek",
+        "Josef Čapek"
+      ],
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-12-11T00:00:00.000Z",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "mlpuroven2kapitola ",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "ze_zivota_hmyzu_001.md",
+            "xhtml": "ze_zivota_hmyzu_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_002.md",
+            "xhtml": "ze_zivota_hmyzu_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_003.md",
+            "xhtml": "ze_zivota_hmyzu_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_004.md",
+            "xhtml": "ze_zivota_hmyzu_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_005.md",
+            "xhtml": "ze_zivota_hmyzu_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_006.md",
+            "xhtml": "ze_zivota_hmyzu_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_007.md",
+            "xhtml": "ze_zivota_hmyzu_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_008.md",
+            "xhtml": "ze_zivota_hmyzu_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_009.md",
+            "xhtml": "ze_zivota_hmyzu_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_010.md",
+            "xhtml": "ze_zivota_hmyzu_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_011.md",
+            "xhtml": "ze_zivota_hmyzu_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_012.md",
+            "xhtml": "ze_zivota_hmyzu_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_013.md",
+            "xhtml": "ze_zivota_hmyzu_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_014.md",
+            "xhtml": "ze_zivota_hmyzu_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_015.md",
+            "xhtml": "ze_zivota_hmyzu_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_016.md",
+            "xhtml": "ze_zivota_hmyzu_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "ze_zivota_hmyzu_017.md",
+            "xhtml": "ze_zivota_hmyzu_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Ze života hmyzu",
+      "identifier": "ad0f7267-2357-4b50-a3a7-82366543b509",
+      "author": [
+        "Karel Čapek",
+        "Josef Čapek"
+      ],
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-12-11T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_001.md",
+        "xhtml": "ze_zivota_hmyzu_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_002.md",
+        "xhtml": "ze_zivota_hmyzu_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_003.md",
+        "xhtml": "ze_zivota_hmyzu_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_004.md",
+        "xhtml": "ze_zivota_hmyzu_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_005.md",
+        "xhtml": "ze_zivota_hmyzu_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_006.md",
+        "xhtml": "ze_zivota_hmyzu_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_007.md",
+        "xhtml": "ze_zivota_hmyzu_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_008.md",
+        "xhtml": "ze_zivota_hmyzu_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_009.md",
+        "xhtml": "ze_zivota_hmyzu_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_010.md",
+        "xhtml": "ze_zivota_hmyzu_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_011.md",
+        "xhtml": "ze_zivota_hmyzu_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_012.md",
+        "xhtml": "ze_zivota_hmyzu_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_013.md",
+        "xhtml": "ze_zivota_hmyzu_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_014.md",
+        "xhtml": "ze_zivota_hmyzu_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_015.md",
+        "xhtml": "ze_zivota_hmyzu_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_016.md",
+        "xhtml": "ze_zivota_hmyzu_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ze_zivota_hmyzu_017.md",
+        "xhtml": "ze_zivota_hmyzu_017.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre18",
+      "calibre3",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "mlpdopispodpisi",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpprimarec",
+      "mlpprimarecdalsiodstavce",
+      "mlpscenickepoznamky",
+      "mlptext",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radkub",
+      "mlptextcapekseznam",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven2kapitola",
+      "mlpversedrama",
+      "mlpznakkurziva11b",
+      "mlpznaktucnakurziva11b",
+      "mlpznaktucne11b",
+      "msonormal",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "capek-ze-zivota-hmyzu"
+    },
+    "generatedAt": 1648208298161
+  }
+}
