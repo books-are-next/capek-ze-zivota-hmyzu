@@ -1,0 +1,187 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Ze života hmyzu",
+    "identifier": "ad0f7267-2357-4b50-a3a7-82366543b509",
+    "author": [
+      "Karel Čapek",
+      "Josef Čapek"
+    ],
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2017-12-11T00:00:00.000Z",
+    "published": "2018-01-19T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_017.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva vydavatele",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_005.html"
+    },
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_006.html"
+    },
+    {
+      "title": "OSOBY",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_007.html"
+    },
+    {
+      "title": "PŘEDEHRA",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_008.html"
+    },
+    {
+      "title": "DĚJSTVÍ PRVNÍ: Motýlové",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_009.html"
+    },
+    {
+      "title": "DĚJSTVÍ DRUHÉ Kořistníci",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_010.html"
+    },
+    {
+      "title": "DĚJSTVÍ TŘETÍ: Mravenci",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_011.html"
+    },
+    {
+      "title": "EPILOG Život a smrt",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_012.html"
+    },
+    {
+      "title": "DOPLNĚK PRO REŽISÉRA",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_013.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_014.html"
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_015.html"
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "href": "OEBPS/Text/ze_zivota_hmyzu_016.html"
+    }
+  ]
+}

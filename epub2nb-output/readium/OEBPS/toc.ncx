@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="ad0f7267-2357-4b50-a3a7-82366543b509" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ze života hmyzu</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva vydavatele</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>OSOBY</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>PŘEDEHRA</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>DĚJSTVÍ PRVNÍ: Motýlové</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>DĚJSTVÍ DRUHÉ Kořistníci</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>DĚJSTVÍ TŘETÍ: Mravenci</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>EPILOG Život a smrt</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>DOPLNĚK PRO REŽISÉRA</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Život a doba spisovatele Karla Čapka v datech</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>První vydání knih Karla Čapka</text>
+      </navLabel>
+      <content src="Text/ze_zivota_hmyzu_016.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
