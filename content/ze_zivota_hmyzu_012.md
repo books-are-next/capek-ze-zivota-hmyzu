@@ -1,9 +1,9 @@
 ---
+title: |-
+  EPILOG
+  Život a smrt
 contentType: prose
 ---
-
-## EPILOG  
-Život a smrt
 
 Vnitřek lesa. Černočerná noc. V popředí spí Tulák.
 

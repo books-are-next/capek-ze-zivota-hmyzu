@@ -1,8 +1,9 @@
 ---
+title: |-
+  DOPLNĚK
+  PRO REŽISÉRA
 contentType: prose
 ---
-
-## DOPLNĚK PRO REŽISÉRA
 
 V epilogu Poutník je totožný s Tulákem. Cítí-li režisér potřebu smírného konce, užij této varianty (od odchodu Slimáků):
 

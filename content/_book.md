@@ -2,8 +2,10 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: drama
   title: Ze života hmyzu
   identifier: ad0f7267-2357-4b50-a3a7-82366543b509
   author:
@@ -11,6 +13,7 @@ meta:
     - Josef Čapek
   publisher: Městská knihovna v Praze
   modified: '2017-12-11T00:00:00.000Z'
+  publisherShort: mkp
 readingOrder:
   - ze_zivota_hmyzu_001.html
   - ze_zivota_hmyzu_002.html
@@ -33,6 +36,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

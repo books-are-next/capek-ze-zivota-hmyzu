@@ -1,8 +1,7 @@
 ---
+title: OSOBY
 contentType: prose
 ---
-
-## OSOBY
 
 PŘEDEHRA:
 

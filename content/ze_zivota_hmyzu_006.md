@@ -1,8 +1,7 @@
 ---
+title: Předmluva
 contentType: prose
 ---
-
-## Předmluva
 
 O této komedii se během její nedlouhé existence napsalo tolik přívětivých i nevlídných slov, že autorům přichází zatěžko ještě něco připojit k tomu matoucímu a mnohohlasému koncertu. Prý je to „úžasná satira na lásku, bohatství a válku“, ale také „ošklivé, cynické a pesimistické drama, jemuž chybí pravda“ (Christian Science Monitor), „hra Jana Křtitele“ (Freethinker) a „ukrutný, špinavý kus symbolismu“ (Sheffield Daily Telegraph), „otvírač očí frivolních diváků“ a „předpotopní podobenství“. „Zabte je,“ napsal o autorech berlínský kritik, zatímco Kerr srdečně zdravil „první pár bratří“, a tak dále. Bylo by příliš obšírné vybírat všechny hrozinky z kritických mazanců upečených doma i jinde.
 

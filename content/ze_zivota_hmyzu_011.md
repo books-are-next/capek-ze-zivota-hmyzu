@@ -1,9 +1,10 @@
 ---
+title: |-
+  DĚJSTVÍ
+  TŘETÍ:
+  Mravenci
 contentType: prose
 ---
-
-## DĚJSTVÍ TŘETÍ:  
-Mravenci
 
 Scéna: Zelený les.
 

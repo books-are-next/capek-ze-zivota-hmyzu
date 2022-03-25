@@ -1,8 +1,7 @@
 ---
+title: PŘEDEHRA
 contentType: prose
 ---
-
-## PŘEDEHRA
 
 Zelená lesní mýtina.
 

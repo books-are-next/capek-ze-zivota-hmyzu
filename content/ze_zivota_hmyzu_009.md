@@ -1,9 +1,10 @@
 ---
+title: |-
+  DĚJSTVÍ
+  PRVNÍ:
+  Motýlové
 contentType: prose
 ---
-
-## DĚJSTVÍ PRVNÍ:  
-Motýlové
 
 Azurový, zářící prostor, vystlaný květy a batikovými polštáři; zrcadla, stolek, na němž jsou připraveny pestré sklenice s chlazenými nápoji a stébélky k pití. Vysoká barová sedátka.
 
