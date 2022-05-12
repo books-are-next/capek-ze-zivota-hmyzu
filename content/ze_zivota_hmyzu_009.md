@@ -1,8 +1,5 @@
 ---
-title: |-
-  DĚJSTVÍ
-  PRVNÍ:
-  Motýlové
+title: 'DĚJSTVÍ PRVNÍ: Motýlové'
 contentType: prose
 ---
 

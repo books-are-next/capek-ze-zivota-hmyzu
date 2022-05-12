@@ -1,8 +1,5 @@
 ---
-title: |-
-  DĚJSTVÍ
-  DRUHÉ
-  Kořistníci
+title: DĚJSTVÍ DRUHÉ Kořistníci
 contentType: prose
 ---
 

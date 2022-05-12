@@ -1,7 +1,5 @@
 ---
-title: |-
-  EPILOG
-  Život a smrt
+title: EPILOG Život a smrt
 contentType: prose
 ---
 

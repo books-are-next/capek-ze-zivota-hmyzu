@@ -16,7 +16,7 @@ meta:
   publisherShort: mkp
 readingOrder:
   - ze_zivota_hmyzu_001.html
-  - ze_zivota_hmyzu_002.html
+  - promo.html
   - ze_zivota_hmyzu_003.html
   - ze_zivota_hmyzu_004.html
   - ze_zivota_hmyzu_005.html

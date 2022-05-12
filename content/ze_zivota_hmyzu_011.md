@@ -1,8 +1,5 @@
 ---
-title: |-
-  DĚJSTVÍ
-  TŘETÍ:
-  Mravenci
+title: 'DĚJSTVÍ TŘETÍ: Mravenci'
 contentType: prose
 ---
 

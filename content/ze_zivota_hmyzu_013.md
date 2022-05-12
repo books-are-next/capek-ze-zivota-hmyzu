@@ -1,7 +1,5 @@
 ---
-title: |-
-  DOPLNĚK
-  PRO REŽISÉRA
+title: DOPLNĚK PRO REŽISÉRA
 contentType: prose
 ---
 
