@@ -1,6 +1,6 @@
 ---
 title: 'DĚJSTVÍ TŘETÍ: Mravenci'
-contentType: prose
+contentType: drama
 ---
 
 Scéna: Zelený les.

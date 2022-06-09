@@ -1,6 +1,6 @@
 ---
 title: PŘEDEHRA
-contentType: prose
+contentType: drama
 ---
 
 Zelená lesní mýtina.

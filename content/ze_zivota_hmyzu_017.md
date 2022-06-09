@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: drama
 ---
 
 Karel a Josef Čapkovi

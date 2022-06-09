@@ -1,6 +1,6 @@
 ---
 title: DĚJSTVÍ DRUHÉ Kořistníci
-contentType: prose
+contentType: drama
 ---
 
 Scéna představuje písčitý kopeček, řídce porostlý stébly trávy velikými jako pně. V jeho levém boku chodba Lumkova, v pravém boku opuštěná Cvrčkova díra… V proscéniu leží Tulák a spí. Na jednom stéble připoutána Kukla. Kuklu přepadne loupeživá hmyzí smečka: zleva vyběhne drobný Brouk a odpoutá ji od stébla. Zprava vyběhne druhý, zažene prvního na útěk a pokouší se Kuklu odtáhnout. Z nápovědovy budky vyskočí třetí, zažene druhého a vleče Kuklu.
