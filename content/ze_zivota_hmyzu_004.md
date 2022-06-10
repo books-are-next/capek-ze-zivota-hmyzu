@@ -3,6 +3,8 @@ title: ''
 contentType: drama
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Ze života hmyzu](https://search.mlp.cz/cz/titul/ze-spolecne-tvorby/7891/) tak, jak bylo vydáno v Praze nakladatelstvím Československý spisovatel v roce 1982. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 * * *
@@ -24,3 +26,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 Verze 1.0 z 19. 1. 2018.
 
 ![](../Images/image003.png)
+
+</section>

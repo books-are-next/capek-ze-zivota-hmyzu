@@ -3,6 +3,8 @@ title: OSOBY
 contentType: drama
 ---
 
+<section>
+
 PŘEDEHRA:
 
 TULÁK
@@ -92,3 +94,5 @@ TETA
 POUTNÍK
 
 Obleky u hmyzu celkem lidské: u Motýlů salonní, u Kořistníků občanské, u Mravenců černé, popřípadě žluté, přiléhavé a přepásané šaty dělnické, Jepice v gázových závojích. Hmyzí charakter se vyjadřuje hlavně v pantomimice. Ale vždy to zůstávají lidé, až na to, co skuteční lidé mají hmyzího.
+
+</section>

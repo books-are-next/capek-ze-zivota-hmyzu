@@ -3,6 +3,8 @@ title: EPILOG Život a smrt
 contentType: drama
 ---
 
+<section>
+
 Vnitřek lesa. Černočerná noc. V popředí spí Tulák.
 
 TULÁK (ze sna): Dost, generále! (Probouzí se.) Co, já jsem spal? Kde to jsem? Ta hrozná tma! Já ne – ne – já nevidím – Nevidím vlastní prst před očima – Kuklo! Kuklo! (Vstává.) Co že je taková tma? Nevidím na krok – Kdo to mluví? Kdo je tu? (Křičí.) Kdo je tu? Ne, to je jenom můj hlas. Ale co že nic nevidím? (Hmatá kolem sebe.) Nic… nic… nic… (Křičí.) Je něco? Je vůbec něco? Propast, všude ta strašná propast! Na kterou stranu začnu padat? Kdybych se měl čeho podržet! Není nic! Není nic! Ó bože, já mám strach! – Kam se podělo nebe? Kdyby aspoň nebe zůstalo! Nebo jediná bludička! Jediná lidská sirka! Kdyby – aspoň – nějaký směr zůstal! Kde to jsem? (Kleká.) Já mám strach! Světlo! Kdyby jen světlo bylo!
@@ -320,3 +322,5 @@ TETA: Dobrý den.
 DŘEVORUBEC: Šťastný dobrý den.
 
 Opona.
+
+</section>

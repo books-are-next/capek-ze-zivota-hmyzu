@@ -3,6 +3,8 @@ title: 'DĚJSTVÍ PRVNÍ: Motýlové'
 contentType: drama
 ---
 
+<section>
+
 Azurový, zářící prostor, vystlaný květy a batikovými polštáři; zrcadla, stolek, na němž jsou připraveny pestré sklenice s chlazenými nápoji a stébélky k pití. Vysoká barová sedátka.
 
 TULÁK (mne si oči a rozhlíží se): Hele, ta krásoucí krása! Vždyť je to jako – jako v ráji! Ani malíř by to líp nevymaloval! A jak to tu voní!
@@ -799,3 +801,5 @@ Rozumíte, to je Clythie, Clythie, Clythie!
 TULÁK (rozpřáhne ruce do hlediště): Hahaha, motýlové!
 
 Opona.
+
+</section>

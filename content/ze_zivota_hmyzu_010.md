@@ -3,6 +3,8 @@ title: DĚJSTVÍ DRUHÉ Kořistníci
 contentType: drama
 ---
 
+<section>
+
 Scéna představuje písčitý kopeček, řídce porostlý stébly trávy velikými jako pně. V jeho levém boku chodba Lumkova, v pravém boku opuštěná Cvrčkova díra… V proscéniu leží Tulák a spí. Na jednom stéble připoutána Kukla. Kuklu přepadne loupeživá hmyzí smečka: zleva vyběhne drobný Brouk a odpoutá ji od stébla. Zprava vyběhne druhý, zažene prvního na útěk a pokouší se Kuklu odtáhnout. Z nápovědovy budky vyskočí třetí, zažene druhého a vleče Kuklu.
 
 KUKLA: Já… já… já!
@@ -824,3 +826,5 @@ TULÁK: A co Larvička?
 PARAZIT: Hahaha, hahaha, hup, jo, hahahahahaha, tu jsem, hup, jo, tu jsem taky slupnul. Stůl přírody je prostřen pro všechny. Hup, hup, hup!
 
 Opona.
+
+</section>

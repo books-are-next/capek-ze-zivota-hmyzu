@@ -3,6 +3,8 @@ title: 'DĚJSTVÍ TŘETÍ: Mravenci'
 contentType: drama
 ---
 
+<section>
+
 Scéna: Zelený les.
 
 TULÁK (sedí zamyšlen):
@@ -793,3 +795,5 @@ KUKLA (zmítá sebou): Já… já… já!
 TULÁK (vyrazí a povalí ho kopnutím, rozšlapává a roztírá botou): Ach ty hmyze! Ty pitomý hmyze!
 
 Opona.
+
+</section>

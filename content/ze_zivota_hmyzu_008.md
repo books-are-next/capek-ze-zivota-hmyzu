@@ -3,6 +3,8 @@ title: PŘEDEHRA
 contentType: drama
 ---
 
+<section>
+
 Zelená lesní mýtina.
 
 TULÁK (vymotá se z kulis, klopýtaje, a padne): Haha, haha, hahaha, to je švanda, že? To nic nedělá. Nemusíte se smát; já jsem si totiž neublížil.
@@ -83,3 +85,5 @@ Neb vše chce býti párem.
 (Scéna se rozsvětlí.)
 
 Kde to jsem?
+
+</section>
