@@ -14,6 +14,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2017-12-11T00:00:00.000Z'
   publisherShort: mkp
+  edition: drama
 readingOrder:
   - ze_zivota_hmyzu_001.html
   - promo.html
