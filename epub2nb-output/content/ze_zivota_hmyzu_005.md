@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Předmluva vydavatele
+contentType: drama
 ---
 
-## Předmluva vydavatele
+<section>
 
 Spisovateli Karlu Čapkovi patří v české literatuře 20. století jedno z nejvýznamnějších míst. Jeho čtenářská obliba je veliká a neklesá ani s postupem času. Právě to byl také důvod, proč bylo jeho dílo vybráno ke zpracování do elektronické podoby v samých začátcích digitalizace v Městské knihovně v Praze.
 
@@ -13,3 +14,5 @@ Nyní po devíti letech se k vydání souborného Čapkova díla vracíme, abych
 Přejeme vám hezké čtení.
 
 Redakce MKP
+
+</section>

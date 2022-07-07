@@ -1,9 +1,9 @@
 ---
-contentType: prose
+title: EPILOG Život a smrt
+contentType: drama
 ---
 
-## EPILOG  
-Život a smrt
+<section>
 
 Vnitřek lesa. Černočerná noc. V popředí spí Tulák.
 
@@ -322,3 +322,5 @@ TETA: Dobrý den.
 DŘEVORUBEC: Šťastný dobrý den.
 
 Opona.
+
+</section>

@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: Předmluva
+contentType: drama
 ---
 
-## Předmluva
+<section>
 
 O této komedii se během její nedlouhé existence napsalo tolik přívětivých i nevlídných slov, že autorům přichází zatěžko ještě něco připojit k tomu matoucímu a mnohohlasému koncertu. Prý je to „úžasná satira na lásku, bohatství a válku“, ale také „ošklivé, cynické a pesimistické drama, jemuž chybí pravda“ (Christian Science Monitor), „hra Jana Křtitele“ (Freethinker) a „ukrutný, špinavý kus symbolismu“ (Sheffield Daily Telegraph), „otvírač očí frivolních diváků“ a „předpotopní podobenství“. „Zabte je,“ napsal o autorech berlínský kritik, zatímco Kerr srdečně zdravil „první pár bratří“, a tak dále. Bylo by příliš obšírné vybírat všechny hrozinky z kritických mazanců upečených doma i jinde.
 
@@ -11,3 +12,5 @@ Nuže k tomu všemu mají autoři nakonec máloco připojiti. Jen v jednom se oh
 Nemínili psáti drama, nýbrž mystérium ve smyslu docela starém a naivním. A jako v středověkém mystériu vystupovala ztělesněná Lakota, Sobectví nebo zase Ctnost, jsou zde jisté mravní pojmy personifikovány hmyzem: prostě pro větší názornost. Ovšem, Ctnost zde schází; kdyby autoři pustili na scénu dejme tomu včelu jako zosobnění Poslušnosti nebo pavouka jako personifikaci Skromnosti, zdál by se jejich kus asi méně pesimistickým. Že to neudělali, k tomu měli své důvody; zrcadlo, jež nastavili životu, bylo úmyslně a tendenčně křivé a pokřivilo by hubu i nejspanilejší lidské Ctnosti. A hle, zlomyslný trik se nad očekávání podařil: bezpočet lidí rozpoznal člověka v té pokřivené grotesce a uvědomil si, že je cosi ošklivého, ukrutného a nicotného i tam, kde není zvykem to hledat. Nepsali jsme o lidech ani o havěti polní: psali jsme o jistých špatnostech. A to, bůhví, není špinavý pesimismus, shledá-li se, že špatnost je něco všivého a mizerného; není to ovšem ani povznášející, ani originální, ale o to tu skutečně nešlo.
 
 A tak měli spíš pravdu ti, kdo tuto komedii nazvali „obnošenou alegorií“. Namouduši je strašně obnošená, tak říkajíc koupená v Židech a ještě obrácená; ale věřte, morálku je těžko hlásat ve smokingu; smokingová morálka by také vypadala podstatně jinak než to, co jsme chtěli lidem říci touto hrou.
+
+</section>

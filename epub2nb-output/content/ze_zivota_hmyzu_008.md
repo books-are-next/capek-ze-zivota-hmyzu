@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: PŘEDEHRA
+contentType: drama
 ---
 
-## PŘEDEHRA
+<section>
 
 Zelená lesní mýtina.
 
@@ -84,3 +85,5 @@ Neb vše chce býti párem.
 (Scéna se rozsvětlí.)
 
 Kde to jsem?
+
+</section>

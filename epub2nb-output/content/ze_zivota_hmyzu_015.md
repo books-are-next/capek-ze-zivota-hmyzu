@@ -1,9 +1,9 @@
 ---
-contentType: prose
+title: Život a doba spisovatele Karla Čapka v datech
+contentType: drama
 ---
 
-## Život a doba spisovatele  
-Karla Čapka v datech
+<section>
 
 1890
 
@@ -64,3 +64,5 @@ Organizuje pomocnou sociální akci Demokracie dětem.
 1938
 
 Podílí se na organizaci světového kongresu Penklubů v Praze. Opakovaně je navrhován na Nobelovu cenu za literaturu. Po mnichovské konferenci (29.–30. 9. 1938) čelí nenávistné kampani, bojuje s českým fašismem a prožívá nejtěžší období svého života. Umírá 25. prosince na zápal plic. Pohřeb na Vyšehradě se koná 29. prosince.
+
+</section>

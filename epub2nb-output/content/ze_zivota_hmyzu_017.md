@@ -1,6 +1,9 @@
 ---
-contentType: prose
+title: ''
+contentType: drama
 ---
+
+<section>
 
 Karel a Josef Čapkovi
 
@@ -27,3 +30,5 @@ ISBN 978-80-7587-110-7 (pdf)
 ISBN 978-80-7587-111-4 (prc)
 
 ISBN 978-80-7587-112-1 (html)
+
+</section>

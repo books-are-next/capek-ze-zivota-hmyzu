@@ -1,9 +1,9 @@
 ---
-contentType: prose
+title: 'DĚJSTVÍ TŘETÍ: Mravenci'
+contentType: drama
 ---
 
-## DĚJSTVÍ TŘETÍ:  
-Mravenci
+<section>
 
 Scéna: Zelený les.
 
@@ -795,3 +795,5 @@ KUKLA (zmítá sebou): Já… já… já!
 TULÁK (vyrazí a povalí ho kopnutím, rozšlapává a roztírá botou): Ach ty hmyze! Ty pitomý hmyze!
 
 Opona.
+
+</section>

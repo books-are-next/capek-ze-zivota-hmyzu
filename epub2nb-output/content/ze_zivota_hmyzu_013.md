@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: DOPLNĚK PRO REŽISÉRA
+contentType: drama
 ---
 
-## DOPLNĚK PRO REŽISÉRA
+<section>
 
 V epilogu Poutník je totožný s Tulákem. Cítí-li režisér potřebu smírného konce, užij této varianty (od odchodu Slimáků):
 
@@ -116,3 +117,5 @@ TULÁK: Šťastný dobrý den!
 CELÝ SVĚT: Šťastný dobrý den! Šťastný – dobrý – den!
 
 Opona.
+
+</section>

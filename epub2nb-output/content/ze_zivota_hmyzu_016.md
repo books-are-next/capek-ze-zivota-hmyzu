@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: První vydání knih Karla Čapka
+contentType: drama
 ---
 
-## První vydání knih Karla Čapka
+<section>
 
 1917
 
@@ -135,3 +136,5 @@ contentType: prose
 1939
 
 – posmrtně: Život a dílo skladatele Foltýna (torzo románu)
+
+</section>

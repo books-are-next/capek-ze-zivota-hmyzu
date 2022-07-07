@@ -1,9 +1,9 @@
 ---
-contentType: prose
+title: 'DĚJSTVÍ PRVNÍ: Motýlové'
+contentType: drama
 ---
 
-## DĚJSTVÍ PRVNÍ:  
-Motýlové
+<section>
 
 Azurový, zářící prostor, vystlaný květy a batikovými polštáři; zrcadla, stolek, na němž jsou připraveny pestré sklenice s chlazenými nápoji a stébélky k pití. Vysoká barová sedátka.
 
@@ -801,3 +801,5 @@ Rozumíte, to je Clythie, Clythie, Clythie!
 TULÁK (rozpřáhne ruce do hlediště): Hahaha, motýlové!
 
 Opona.
+
+</section>

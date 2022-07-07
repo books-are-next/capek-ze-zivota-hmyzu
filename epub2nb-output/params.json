@@ -1,31 +1,32 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "drama",
       "title": "Ze života hmyzu",
       "identifier": "ad0f7267-2357-4b50-a3a7-82366543b509",
-      "author": [
-        "Karel Čapek",
-        "Josef Čapek"
-      ],
+      "author": "Karel Čapek, Josef Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2017-12-11T00:00:00.000Z"
+      "modified": "2017-12-11T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "drama"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "mlpuroven2kapitola ",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "",
+      "figure": "",
+      "em": "",
+      "strong": "",
       "remove": "",
       "ignore": ""
     },
@@ -33,6 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "ze_zivota_hmyzu_001.md",
@@ -43,18 +45,20 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_002.md",
             "xhtml": "ze_zivota_hmyzu_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_003.md",
@@ -65,7 +69,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_004.md",
@@ -76,7 +81,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_005.md",
@@ -87,7 +93,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_006.md",
@@ -98,7 +105,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_007.md",
@@ -109,7 +117,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_008.md",
@@ -120,7 +129,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_009.md",
@@ -131,7 +141,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_010.md",
@@ -142,7 +153,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_011.md",
@@ -153,7 +165,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_012.md",
@@ -164,7 +177,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_013.md",
@@ -175,7 +189,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_014.md",
@@ -186,7 +201,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_015.md",
@@ -197,7 +213,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_016.md",
@@ -208,7 +225,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ze_zivota_hmyzu_017.md",
@@ -219,7 +237,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -262,73 +281,73 @@
         "xhtml": "ze_zivota_hmyzu_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva vydavatele",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_005.md",
         "xhtml": "ze_zivota_hmyzu_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_006.md",
         "xhtml": "ze_zivota_hmyzu_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OSOBY",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_007.md",
         "xhtml": "ze_zivota_hmyzu_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PŘEDEHRA",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_008.md",
         "xhtml": "ze_zivota_hmyzu_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ PRVNÍ: Motýlové",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_009.md",
         "xhtml": "ze_zivota_hmyzu_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ DRUHÉ Kořistníci",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_010.md",
         "xhtml": "ze_zivota_hmyzu_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ TŘETÍ: Mravenci",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_011.md",
         "xhtml": "ze_zivota_hmyzu_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "EPILOG Život a smrt",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_012.md",
         "xhtml": "ze_zivota_hmyzu_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DOPLNĚK PRO REŽISÉRA",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_013.md",
         "xhtml": "ze_zivota_hmyzu_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_014.md",
         "xhtml": "ze_zivota_hmyzu_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_015.md",
         "xhtml": "ze_zivota_hmyzu_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První vydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "ze_zivota_hmyzu_016.md",
         "xhtml": "ze_zivota_hmyzu_016.html"
@@ -438,6 +457,6 @@
       "user": "books-are-next",
       "repo": "capek-ze-zivota-hmyzu"
     },
-    "generatedAt": 1648208298161
+    "generatedAt": 1657191850044
   }
 }
